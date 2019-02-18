@@ -1,0 +1,10 @@
+C:\Users\dongg\source\repos\AirplaneCheapness\AirplaneCheapness\bin\Debug\AirplaneCheapness.exe.config
+C:\Users\dongg\source\repos\AirplaneCheapness\AirplaneCheapness\bin\Debug\AirplaneCheapness.exe
+C:\Users\dongg\source\repos\AirplaneCheapness\AirplaneCheapness\bin\Debug\AirplaneCheapness.pdb
+C:\Users\dongg\source\repos\AirplaneCheapness\AirplaneCheapness\obj\Debug\AirplaneCheapness.csprojAssemblyReference.cache
+C:\Users\dongg\source\repos\AirplaneCheapness\AirplaneCheapness\obj\Debug\AirplaneCheapness.Form1.resources
+C:\Users\dongg\source\repos\AirplaneCheapness\AirplaneCheapness\obj\Debug\AirplaneCheapness.Properties.Resources.resources
+C:\Users\dongg\source\repos\AirplaneCheapness\AirplaneCheapness\obj\Debug\AirplaneCheapness.csproj.GenerateResource.cache
+C:\Users\dongg\source\repos\AirplaneCheapness\AirplaneCheapness\obj\Debug\AirplaneCheapness.csproj.CoreCompileInputs.cache
+C:\Users\dongg\source\repos\AirplaneCheapness\AirplaneCheapness\obj\Debug\AirplaneCheapness.exe
+C:\Users\dongg\source\repos\AirplaneCheapness\AirplaneCheapness\obj\Debug\AirplaneCheapness.pdb
